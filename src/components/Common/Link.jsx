@@ -5,8 +5,12 @@ const StyledLink = styled.a`
   margin: 0.5rem;
 `;
 
-const Link = ({ lnk, children }) => {
-  return <StyledLink href={lnk}>{children}</StyledLink>;
+const Link = ({ lnk, children, target }) => {
+  return (
+    <StyledLink href={lnk} target={target}>
+      {children}
+    </StyledLink>
+  );
 };
 
 export default Link;
