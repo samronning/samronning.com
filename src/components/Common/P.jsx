@@ -6,6 +6,7 @@ const P = styled.p`
   text-align: left;
   margin: 0;
   padding-left: 0.5rem;
+  min-width: 12rem;
   max-width: 25rem;
   font-weight: ${(props) => (props.bold ? "bold" : "auto")};
   text-decoration: ${(props) => (props.uline ? "underline" : "auto")};
