@@ -1,6 +1,6 @@
 import H1 from "../Common/H1";
 import Project from "./Project";
-import List from "../../res/projects/index";
+import ProjectImages from "../../res/projects/index";
 import styled from "styled-components";
 
 const ProjectsContainer = styled.div`
@@ -10,11 +10,30 @@ const ProjectsContainer = styled.div`
   justify-content: center;
 `;
 
-const list = List();
+const { aptFinderImg, aptCollectorImg, sonicRemImg, peasyImg, mdpImg } =
+  ProjectImages;
+
 let pjects = [
   {
+    title: "Apartment Finder",
+    git: "https://github.com/samronning/aptfinder",
+    desc: `This is a frontend to display apartment listings
+    and allow sorting/filtering/infinite scrolling. It uses the
+    Apartment Collector API to get listings and to allow the
+    search box to autofill with top 5 city names that conform to the search pattern.`,
+    img_src: aptFinderImg,
+  },
+  {
+    title: "Apartment Collector",
+    git: "https://github.com/samronning/apt-collector",
+    desc: `I am creating an apartment scraper which will 
+    collect all apartment listings from sites like
+    apartments.com/zillow.com/etc and combine them
+    into one dataset.`,
+    img_src: aptCollectorImg,
+  },
+  {
     title: "Sonic Remedies",
-    link: "https://sonicremedies.net",
     git: "https://github.com/samronning/Sonic-Remedies",
     desc: `On a team with one other developer,
     I designed and implemented a survey-building
@@ -22,6 +41,7 @@ let pjects = [
     questions with varying types (multiple choice,
     free response, color picker, Likert scale, etc.) for
     a web application to serve to the public.`,
+    img_src: sonicRemImg,
   },
   {
     title: '"Peasy" React Native Recipe App',
@@ -31,19 +51,18 @@ let pjects = [
     view statistics about meals they've made, and change the settings.
     We used a Trello board with an Agile mindset for project management.
      `,
+    img_src: peasyImg,
   },
   {
     title: "MDP: Hammond Organ Project 2020",
-    link: "https://mdp.engin.umich.edu/sponsor_teams/artsengine/",
+    link: "https://www.dc.umich.edu/2021/07/13/mdp-hammond-organ-project/",
     desc: `Over the course of a year, I helped develop a web application
      for interacting with a musical instrument in a fun and creative way. The
      app allows users to draw pictures and have them come to life in the form
      of music.`,
+    img_src: mdpImg,
   },
 ];
-for (let i = 0; i < list.length; i++) {
-  pjects[i]["img_src"] = list[i];
-}
 
 const Projects = () => {
   return (

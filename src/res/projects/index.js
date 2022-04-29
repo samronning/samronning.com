@@ -1,7 +1,7 @@
-import _SONICREM from "./sonicrem.svg";
-import _TTC from "./ttc.PNG";
-import _MDP from "./mdp.PNG";
+import aptFinderImg from "./aptFinder.PNG";
+import aptCollectorImg from "./aptCollector.svg";
+import sonicRemImg from "./sonicrem.svg";
+import peasyImg from "./ttc.PNG";
+import mdpImg from "./mdp.PNG";
 
-export default function List() {
-  return [_SONICREM, _TTC, _MDP];
-}
+export default { aptFinderImg, aptCollectorImg, sonicRemImg, peasyImg, mdpImg };

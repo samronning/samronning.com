@@ -1,0 +1,110 @@
+<svg width="108.81mm" height="93.345mm" version="1.1" viewBox="0 0 108.81 93.345" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker4946" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fffffd" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker4174" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fffffd" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker2844" overflow="visible" orient="auto">
+   <path transform="matrix(.8 0 0 .8 10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker2596" overflow="visible" orient="auto">
+   <path transform="matrix(.8 0 0 .8 10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Lstart" overflow="visible" orient="auto">
+   <path transform="matrix(.8 0 0 .8 10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1794" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1562" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1794-2" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g transform="translate(-20.99 -40.275)">
+  <circle cx="92.176" cy="48.496" r="8.221" fill="#ffc688" opacity=".999" stroke-width=".254"/>
+  <text x="84.812927" y="49.524689" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="84.812927" y="49.524689" stroke-width=".26458">ExpressJS</tspan></text>
+  <circle cx="92.176" cy="48.496" r="8.221" fill="#ffc688" opacity=".999" stroke-width=".254"/>
+  <text x="86.760262" y="45.426353" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="86.760262" y="45.426353"><tspan x="86.760262" y="45.426353" stroke-width=".26458">Python</tspan></tspan><tspan x="86.760262" y="49.836067">Server</tspan></text>
+  <g transform="translate(26.084 -2.1526)">
+   <circle cx="37.609" cy="50.649" r="8.221" fill="#ffc688" opacity=".999" stroke-width=".254"/>
+   <text x="32.013809" y="49.888897" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="32.013809" y="49.888897" stroke-width=".26458">ReactJS</tspan></text>
+  </g>
+  <rect x="53.099" y="50.577" width="21.18" height="10.59" fill="#fff" opacity=".999" stroke-width=".082492"/>
+  <text x="55.196487" y="57.361843" font-family="Cambria" font-size="4.2333px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="55.196487" y="57.361843" font-family="Cambria" font-size="4.2333px" stroke-width=".26458">Frontend</tspan></text>
+  <rect x="81.582" y="50.577" width="21.18" height="10.59" fill="#fff" opacity=".999" stroke-width=".082492"/>
+  <text x="83.68782" y="57.386646" font-family="Cambria" font-size="4.2333px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="83.68782" y="57.386646" font-family="Cambria" font-size="4.2333px" stroke-width=".26458">REST API</tspan></text>
+  <g transform="translate(-24.677 -101.56)">
+   <path d="m68.158 164.93h-22.491l11.246-19.478z" fill="#c3fffc" opacity=".999"/>
+   <text x="53.373905" y="159.63976" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="53.373905" y="159.63976" stroke-width=".26458">User</tspan></text>
+  </g>
+  <g transform="translate(18.924 -10.488)">
+   <rect x="36.733" y="71.655" width="16.064" height="16.064" fill="#b1ff75" opacity=".999"/>
+  </g>
+  <rect x="84.14" y="79.963" width="16.064" height="16.064" fill="#b1ff75" opacity=".999"/>
+  <text x="85.699585" y="82.555984" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="85.699585" y="82.555984">Apart-</tspan><tspan x="85.699585" y="86.965698">ment</tspan><tspan x="85.699585" y="91.375412">List at</tspan><tspan x="85.699585" y="95.785126">Location</tspan></text>
+  <g transform="translate(0 -18.425)">
+   <rect x="84.14" y="79.591" width="16.064" height="16.064" fill="#b1ff75" opacity=".999"/>
+   <text x="87.086235" y="85.271111" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1" xml:space="preserve"><tspan x="87.086235" y="85.271111">City</tspan><tspan x="87.086235" y="88.798882">Name</tspan><tspan x="87.086235" y="92.326653">Search</tspan></text>
+  </g>
+  <g fill="none" stroke="#fff">
+   <path d="m32.236 63.375c4.3112 2.7069 8.622 5.4135 12.525 6.3841 3.9035 0.97051 7.3996 0.20511 10.896-0.56025" marker-end="url(#marker1562)" marker-start="url(#marker2844)" stroke-width=".265"/>
+   <path d="m71.721 69.198h12.419" marker-end="url(#marker1794)" marker-start="url(#Arrow1Lstart)" stroke-width=".26458px"/>
+   <path d="m72.112 87.995h11.551" marker-end="url(#marker1794-2)" marker-start="url(#marker2596)" stroke-width=".25517px"/>
+  </g>
+  <rect x="55.657" y="79.963" width="16.064" height="16.064" fill="#b1ff75" opacity=".999"/>
+  <text x="58.593605" y="86.419029" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1" xml:space="preserve"><tspan x="58.593605" y="86.419029">Apart-</tspan><tspan x="58.593605" y="89.9468">ment</tspan><tspan x="58.593605" y="93.474571">Search</tspan></text>
+  <text x="59.286446" y="68.4291" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1" xml:space="preserve"><tspan x="59.286446" y="68.4291">City</tspan><tspan x="59.286446" y="71.956871">Search</tspan></text>
+  <g transform="translate(3.3505e-6 -45.368)">
+   <g transform="translate(.00011402 47.041)">
+    <rect x="112.62" y="68.576" width="16.064" height="16.064" fill="#b1ff75" opacity=".999"/>
+    <text x="115.49426" y="76.019814" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1" xml:space="preserve"><tspan x="115.49426" y="76.019814">City</tspan><tspan x="115.49426" y="79.547585">Names</tspan></text>
+   </g>
+   <g transform="translate(-.92671 -9.2141)">
+    <g transform="translate(-1.1522 20.585)">
+     <circle cx="122.73" cy="82.493" r="8.221" fill="#ffc688" opacity=".999" stroke-width=".254"/>
+     <text x="100.43132" y="92.432175" fill="#000000" font-family="Georgia" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="100.43132" y="92.432175" stroke-width=".26458"/></text>
+    </g>
+    <text x="115.12572" y="102.49033" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1" xml:space="preserve"><tspan x="115.12572" y="102.49033">Postgres</tspan><tspan x="115.12572" y="106.0181">DB</tspan></text>
+   </g>
+   <g transform="translate(25.574 24.61)">
+    <g>
+     <ellipse cx="95.081" cy="77.441" rx="9.0203" ry="3.0068" fill="#ffc688" opacity=".999" stroke-width=".254"/>
+     <path transform="scale(.26458)" d="m325.27 292.69v51.014a34.093 11.364 0 0 0 34.092 11.363 34.093 11.364 0 0 0 34.094-11.363 34.093 11.364 0 0 0 0-0.0312v-50.982z" fill="#fff" opacity=".999" stroke-width=".96"/>
+     <ellipse cx="95.081" cy="77.441" rx="9.0203" ry="3.0068" fill="#fff" opacity=".999" stroke="#000001" stroke-width=".254"/>
+    </g>
+    <text x="88.117897" y="86.911919" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="88.117897" y="86.911919" stroke-width=".26458">Database</tspan></text>
+   </g>
+  </g>
+  <g transform="translate(-1.4423 20.232)">
+   <rect x="112.62" y="89.958" width="16.064" height="16.064" fill="#b1ff75" opacity=".999"/>
+   <text x="114.84227" y="95.266281" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1" xml:space="preserve"><tspan x="114.84227" y="95.266281">Apart-</tspan><tspan x="114.84227" y="98.794052">ment</tspan><tspan x="114.84227" y="102.32182">Listings</tspan></text>
+  </g>
+  <g transform="translate(.43402 49.023)">
+   <g transform="translate(-3.9553 -33.997)">
+    <circle cx="122.73" cy="82.493" r="8.221" fill="#ffc688" opacity=".999" stroke-width=".254"/>
+   </g>
+   <g transform="translate(-1.8803 -1.5953)">
+    <rect x="110.07" y="52.172" width="21.18" height="10.59" fill="#fff" opacity=".999" stroke-width=".082492"/>
+    <g transform="translate(25.574 -28.297)">
+     <text x="86.181183" y="84.580841" font-family="Cambria" font-size="4.2333px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="86.181183" y="84.580841"><tspan x="86.181183" y="84.580841" font-size="4.2333px" stroke-width=".26458">Key-value</tspan></tspan><tspan x="86.181183" y="89.872505">Cache</tspan></text>
+    </g>
+   </g>
+   <text x="114.6127" y="45.777798" font-family="Cambria" font-size="3.5278px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="114.6127" y="45.777798">Redis</tspan><tspan x="114.6127" y="50.187511">DB</tspan></text>
+  </g>
+  <g fill="none" stroke="#fff">
+   <path d="m111.18 118.22c-3.5816-10.104-7.2696-20.168-10.977-30.226" marker-end="url(#marker4946)" marker-start="url(#marker2596)" stroke-width=".265"/>
+   <path d="m112.62 78.28-12.419-9.082" marker-end="url(#marker4946)" stroke-width=".265"/>
+   <path d="m92.172 109.78-2e-6 -13.757" marker-end="url(#marker4174)" stroke-width=".26458px"/>
+  </g>
+  <g transform="translate(3.8894 -.4849)">
+   <path transform="matrix(.21558 0 0 .21558 46.655 61.141)" d="m240.61 286.1c-0.60634 1.5159 0.89214 5.9925 0.10059 7.4204-0.79156 1.4279-5.3821 2.5292-6.3464 3.8466-0.96428 1.3174-0.62617 6.0261-1.748 7.2123-1.1218 1.1862-5.842 1.1112-7.1036 2.1475-1.2616 1.0362-2.1051 5.681-3.4867 6.551s-5.9348-0.37652-7.4145 0.31343c-1.4797 0.68995-3.4518 4.979-5.0063 5.4781s-5.6547-1.8406-7.2595-1.5403-4.5816 3.9642-6.2114 4.061c-1.6298 0.0968-5.0193-3.189-6.6484-3.2973s-5.4235 2.7002-7.0262 2.3887-4.0685-4.3371-5.6195-4.8471c-1.551-0.50997-5.9246 1.2666-7.3994 0.56631-1.4748-0.70033-2.8621-5.2126-4.2375-6.0923-1.3754-0.87966-6.0535-0.24655-7.3078-1.2916-1.2543-1.0451-1.4759-5.7607-2.5893-6.9547-1.1134-1.1941-5.802-1.7442-6.757-3.0684-0.955-1.3242 3e-3 -5.9467-0.77837-7.3802-0.7815-1.4334-5.186-3.1324-5.7816-4.6524-0.59568-1.5201 1.4819-5.7591 1.0814-7.3419-0.40046-1.5828-4.244-4.3236-4.443-5.9441s2.8676-5.2096 2.8733-6.8423c6e-3 -1.6326-3.0355-5.2433-2.8252-6.8623 0.21031-1.619 4.0731-4.3328 4.4847-5.9127 0.41158-1.5799-1.6362-5.8334-1.0298-7.3493 0.60634-1.5159 5.0226-3.1838 5.8142-4.6117 0.79156-1.4279-0.13404-6.057 0.83024-7.3745 0.96428-1.3174 5.6566-1.8347 6.7784-3.0209 1.1218-1.1862 1.3765-5.9001 2.6381-6.9364s5.9352-0.37028 7.3167-1.2402 2.8005-5.3724 4.2802-6.0624c1.4797-0.68995 5.8408 1.1174 7.3953 0.61832 1.5545-0.49905 4.0486-4.5072 5.6534-4.8074 1.6048-0.30028 5.3794 2.5348 7.0092 2.438 1.6298-0.0968 5.0423-3.3587 6.6714-3.2505s4.58 3.793 6.1827 4.1046c1.6026 0.31156 5.7192-1.9992 7.2701-1.4892s3.4929 4.8128 4.9677 5.5132c1.4748 0.70034 6.0367-0.5141 7.4121 0.36555s2.1862 5.5303 3.4405 6.5754c1.2543 1.0451 5.9749 1.0033 7.0883 2.1974 1.1134 1.1941 0.74222 5.9002 1.6972 7.2244 0.955 1.3242 5.5377 2.4577 6.3192 3.8911 0.7815 1.4334-0.74842 5.8994-0.15275 7.4195 0.59568 1.5201 4.7525 3.7576 5.153 5.3404 0.40046 1.5828-2.192 5.528-1.9931 7.1484 0.19893 1.6205 3.6687 4.8215 3.663 6.4541-6e-3 1.6326-3.4979 4.8092-3.7082 6.4282-0.21031 1.619 2.3544 5.5824 1.9428 7.1623-0.41158 1.5799-4.584 3.7882-5.1904 5.304z" fill="#ffc688" fill-rule="evenodd" opacity=".96"/>
+   <text x="80.087784" y="117.20126" font-family="Georgia" font-size="4.2333px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="80.087784" y="117.20126">Web</tspan><tspan x="80.087784" y="122.49293">Scraping</tspan></text>
+  </g>
+  <path d="m32.236 63.375s1.6089 16.767 7.4234 21.76c4.11 3.5289 15.998 2.8605 15.998 2.8605" fill="none" marker-end="url(#marker4174)" marker-start="url(#marker2596)" stroke="#fff" stroke-width=".265"/>
+ </g>
+</svg>
