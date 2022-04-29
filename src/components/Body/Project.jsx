@@ -16,8 +16,20 @@ const Project = ({ title, link, git, desc, img_src }) => {
       <div style={{ margin: "2rem" }}>
         <H2>{title}</H2>
         <P>{desc}</P>
-        {link ? <Link lnk={link}>{link}</Link> : ""}
-        {git ? <Link lnk={git}>Github</Link> : ""}
+        {link ? (
+          <Link lnk={link} target="_blank">
+            {link}
+          </Link>
+        ) : (
+          ""
+        )}
+        {git ? (
+          <Link lnk={git} target="_blank">
+            Github
+          </Link>
+        ) : (
+          ""
+        )}
       </div>
       <ImageZoom
         image={{

@@ -7,7 +7,9 @@ const Contact = () => {
     <div>
       <P bold> Contact</P>
       <P>sronning@umich.edu</P>
-      <Link lnk="https://github.com/samronning">Github</Link>
+      <Link lnk="https://github.com/samronning" target="_blank">
+        Github
+      </Link>
       <br />
       <Link lnk={resume} target="_blank">
         Resume
